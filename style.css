@@ -1,0 +1,27 @@
+body {
+    font-family: 'LAVIOSSA';
+    margin: 70px;
+}
+
+
+  
+section {
+    width: 700px;
+    background-color: #ffffff05;
+    background-image: url(kaz.jpg);
+    background-size: cover;
+    padding: 25px;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h2, span, p {
+    color: antiquewhite;
+}
+
+h1 {
+    color: antiquewhite;
+    font-size:60px ;
+}
